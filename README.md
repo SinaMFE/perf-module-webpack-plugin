@@ -1,0 +1,1 @@
+# perf-module-self-executing-webpack-plugin
